@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jan 25 09:39:52 IST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\.m2\\repository\\org\\springframework\\spring-web\\5.0.0.RELEASE\\spring-web-5.0.0.RELEASE.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:chocolatelovebackend=WEB-INF/lib/chocolatelovebackend-0.0.1-SNAPSHOT.jar

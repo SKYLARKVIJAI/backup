@@ -1,0 +1,6 @@
+com\sl\chocolatelovebackend\App.class
+com\sl\chocolatelovebackend\model\Product.class
+com\sl\chocolatelovebackend\config\DBConfiguration.class
+com\sl\chocolatelovebackend\model\Category.class
+com\sl\chocolatelovebackend\model\Supplier.class
+com\sl\chocolatelovebackend\model\UserRegistration.class
